@@ -2018,6 +2018,7 @@
 }
 
 .template-showcase-card {
+  position: relative;
   background: #15171d;
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-lg);
@@ -2142,6 +2143,7 @@
   text-transform: uppercase;
   font-weight: 700;
   backdrop-filter: blur(8px);
+  z-index: 10;
 }
 
 /* Template Details Area */

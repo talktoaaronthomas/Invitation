@@ -77,9 +77,9 @@ export function TemplateSelector({ onSelectTemplate, currentTemplateId }) {
                       <span>Respond</span>
                     </div>
                   </div>
-
-                  <span className="template-badge-pill">{tmpl.badge}</span>
                 </div>
+
+                <span className="template-badge-pill">{tmpl.badge}</span>
 
                 {/* Card Meta & Details */}
                 <div className="template-card-details">

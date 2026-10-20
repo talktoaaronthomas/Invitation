@@ -26,8 +26,7 @@ export function Header({
             <span className="brand-crest-icon">✦</span>
           </div>
           <div className="brand-text">
-            <span className="brand-name">AURA</span>
-            <span className="brand-tagline">Haute Stationery Studio</span>
+            <span className="brand-name">MBH Events</span>
           </div>
         </div>
       </header>
@@ -42,8 +41,7 @@ export function Header({
           <span className="brand-crest-icon">✦</span>
         </div>
         <div className="brand-text">
-          <span className="brand-name">AURA</span>
-          <span className="brand-tagline">Haute Stationery Studio</span>
+          <span className="brand-name">MBH Events</span>
         </div>
       </div>
 
